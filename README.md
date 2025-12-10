@@ -1,6 +1,9 @@
 # FishTank Pomodoro
 
-Pomodoro app build for focusing using web stack (html, css and js) plus Electron for making it a desktop app. This project was made only for fun, the next update will contain the fishtank feature.
+Pomodoro app build for focusing using web stack (html, css and js) plus Electron for making it a desktop app.
+
+> [!IMPORTANT]
+> This project was made only for fun and some time ago, so there are lots of mistakes in the project structure and I'm kinda lazy right now, I ask pity!
 
 ## Basic instructions
 
